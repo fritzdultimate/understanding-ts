@@ -1,7 +1,13 @@
+var person = {
+    name: "Darlington",
+    age: 23,
+    hobbies: ["Computer"],
+    role: [8, "Project-manager"]
+};
 function add(n1, n2) {
     return n1 + n2;
 }
-var number1 = 8;
-var number2 = 10;
-var result = add(number1, number2);
-console.log(result);
+function printResult(num) {
+    console.log('Result: ' + num);
+}
+printResult(add(5, 7));
