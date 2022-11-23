@@ -4,7 +4,7 @@ const person: {
     hobbies: string[],
     role: [number, string]
 } = {
-    name: "Darlington",
+    name: "Darlington 001",
     age: 23,
     hobbies: ["Computer"],
     role: [8, "Project-manager"]
