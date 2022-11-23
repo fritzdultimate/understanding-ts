@@ -15,3 +15,4 @@ printResult(add(5, 7));
 let combineValues;
 combineValues = add;
 console.log(combineValues(8, 9));
+//# sourceMappingURL=app.js.map
